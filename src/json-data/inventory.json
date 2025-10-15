@@ -1,0 +1,162 @@
+[
+  {
+    "inventory_id": "359a2114-763f-4579-921c-ff365bec214e",
+    "inventory_barcode": "27900085",
+    "inventory_general": {
+      "width": 22.75,
+      "depth": 1.5,
+      "height": 18.5,
+      "weight": 3.4,
+      "seven_day_price": 50,
+      "seven_day_visible": true,
+      "three_day_price": null,
+      "three_day_visible": false
+    },
+    "inventory_created_at": "2025-08-04T02:42:13.665Z",
+    "inventory_updated_at": "2025-08-04T04:26:00.713Z"
+  },
+  {
+    "inventory_id": "2b855b0a-94e9-4853-9bf1-f0a6746e28c6",
+    "inventory_barcode": "27900086",
+    "inventory_general": {
+      "width": 22.75,
+      "depth": 1.5,
+      "height": 18.5,
+      "weight": 3.4,
+      "seven_day_price": 50,
+      "seven_day_visible": true,
+      "three_day_price": null,
+      "three_day_visible": false
+    },
+    "inventory_created_at": "2025-08-04T02:42:13.667Z",
+    "inventory_updated_at": "2025-08-04T04:25:56.021Z"
+  },
+  {
+    "inventory_id": "a890111b-0cef-4abd-b9e9-02fc3e1e76e6",
+    "inventory_barcode": "27900087",
+    "inventory_general": {
+      "width": 22.75,
+      "depth": 1.5,
+      "height": 18.5,
+      "weight": 3.4,
+      "seven_day_price": 50,
+      "seven_day_visible": true,
+      "three_day_price": null,
+      "three_day_visible": false
+    },
+    "inventory_created_at": "2025-08-04T02:42:13.669Z",
+    "inventory_updated_at": "2025-08-07T18:43:08.624Z"
+  },
+  {
+    "inventory_id": "0c6193db-1c2a-45ca-8022-f6da7b3b25ee",
+    "inventory_barcode": "27900088",
+    "inventory_general": {
+      "width": 18.5,
+      "depth": 1.5,
+      "height": 22.75,
+      "weight": 3.8,
+      "seven_day_price": 50,
+      "seven_day_visible": true,
+      "three_day_price": null,
+      "three_day_visible": false
+    },
+    "inventory_created_at": "2025-08-04T02:42:13.670Z",
+    "inventory_updated_at": "2025-08-04T02:58:57.054Z"
+  },
+  {
+    "inventory_id": "8a5ceb0c-c30c-487a-a757-fdaa1a4387bb",
+    "inventory_barcode": "27900089",
+    "inventory_general": {
+      "width": 23.25,
+      "depth": 1.5,
+      "height": 23,
+      "weight": 4.6,
+      "seven_day_price": 75,
+      "seven_day_visible": true,
+      "three_day_price": null,
+      "three_day_visible": false
+    },
+    "inventory_created_at": "2025-08-04T02:42:13.673Z",
+    "inventory_updated_at": "2025-09-09T21:59:22.723Z"
+  },
+  {
+    "inventory_id": "04db5f64-9561-47b8-a5fd-c429510ba610",
+    "inventory_barcode": "27900090",
+    "inventory_general": {
+      "width": 23.25,
+      "depth": 1.5,
+      "height": 23,
+      "weight": 4.6,
+      "seven_day_price": 75,
+      "seven_day_visible": true,
+      "three_day_price": null,
+      "three_day_visible": false
+    },
+    "inventory_created_at": "2025-08-04T02:42:13.674Z",
+    "inventory_updated_at": "2025-08-04T02:58:57.201Z"
+  },
+  {
+    "inventory_id": "68e490a9-3d9e-4d67-b423-4f52b7f3a013",
+    "inventory_barcode": "27900091",
+    "inventory_general": {
+      "width": 23.25,
+      "depth": 1.5,
+      "height": 23,
+      "weight": 4.6,
+      "seven_day_price": 75,
+      "seven_day_visible": true,
+      "three_day_price": null,
+      "three_day_visible": false
+    },
+    "inventory_created_at": "2025-08-04T02:42:13.676Z",
+    "inventory_updated_at": "2025-08-06T06:37:59.051Z"
+  },
+  {
+    "inventory_id": "03ba30fd-67ba-4f78-8f83-446720fd17bf",
+    "inventory_barcode": "27900092",
+    "inventory_general": {
+      "width": 23.25,
+      "depth": 1.5,
+      "height": 23,
+      "weight": 4.6,
+      "seven_day_price": 100,
+      "seven_day_visible": true,
+      "three_day_price": 25,
+      "three_day_visible": false
+    },
+    "inventory_created_at": "2025-08-04T02:42:13.677Z",
+    "inventory_updated_at": "2025-08-07T18:42:17.000Z"
+  },
+  {
+    "inventory_id": "8ab027c5-5155-4585-ae8b-116162163d0b",
+    "inventory_barcode": "27900093",
+    "inventory_general": {
+      "width": 23.25,
+      "depth": 1.5,
+      "height": 23,
+      "weight": 4.6,
+      "seven_day_price": 100,
+      "seven_day_visible": false,
+      "three_day_price": 25,
+      "three_day_visible": false
+    },
+    "inventory_created_at": "2025-08-04T02:42:13.679Z",
+    "inventory_updated_at": "2025-08-07T15:12:06.525Z"
+  },
+  {
+    "inventory_id": "fdb22c73-8b27-4772-bccc-a0483b05650e",
+    "inventory_barcode": "27900094",
+    "inventory_general": {
+      "width": 23.25,
+      "depth": 1.5,
+      "height": 23,
+      "weight": 4.6,
+      "seven_day_price": 100,
+      "seven_day_visible": false,
+      "three_day_price": null,
+      "three_day_visible": false
+    },
+    "inventory_created_at": "2025-08-04T02:42:13.682Z",
+    "inventory_updated_at": "2025-10-06T17:30:28.277Z"
+  }
+]

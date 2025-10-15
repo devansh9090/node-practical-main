@@ -1,0 +1,32 @@
+[
+  {
+    "oi_id": "e41d2bea-fc5d-461d-ad0e-58f25ef845d6",
+    "oi_created_fk_user_id": "6b26a664-a36d-42c0-bb55-897bb53954be",
+    "oi_order_fk_order_id": "3325f2ab-38b7-4a01-a379-754d3a0fc18a",
+    "oi_order": {
+      "order_id": "3325f2ab-38b7-4a01-a379-754d3a0fc18a",
+      "order_order_number": "000049",
+      "order_name": "order 1"
+    },
+    "oi_inventory_fk_inventory_id": "8ab027c5-5155-4585-ae8b-116162163d0b",
+    "oi_inventory": {
+      "inventory_general": {
+        "width": "23.25",
+        "depth": "1.5",
+        "height": "23",
+        "weight": "4.6",
+        "seven_day_price": "100",
+        "three_day_price": "25"
+      },
+      "inventory_id": "8ab027c5-5155-4585-ae8b-116162163d0b",
+      "inventory_barcode": "27900093"
+    },
+    "oi_status": "available",
+    "oi_pickup_at": "2025-10-07T18:30:00.000Z",
+    "oi_return_at": "2025-10-14T18:30:00.000Z",
+    "oi_request_hold": false,
+    "oi_deleted": false,
+    "oi_created_at": "2025-10-07T06:58:25.860Z",
+    "oi_updated_at": "2025-10-07T06:58:25.861Z"
+  }
+]
