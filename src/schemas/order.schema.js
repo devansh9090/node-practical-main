@@ -1,22 +1,6 @@
 const mongoose = require("mongoose");
 const { v4: uuidv4 } = require("uuid");
-
-const ORDER_STATUS = {
-  HOLD: 'hold',
-  WORKING: 'working',
-  CANCELLED: 'cancelled',
-  CONFIRM: 'confirm',
-  CHECK_OUT: 'check-out',
-  PACK: 'pack',
-  PICK_UP: 'pick-up',
-  SHIP: 'ship',
-  OUT: 'out',
-  RETURNED: 'returned',
-  CHECK_IN: 'check-in',
-  ISSUE: 'issue',
-  IN: 'in',
-  RUSH_ORDER: 'rush-order'
-};
+const {ORDER_STATUS} = require("../constants/status");
 
 const OrderSchema = new mongoose.Schema(
   {

@@ -1,24 +1,6 @@
 const mongoose = require("mongoose");
 const { v4: uuidv4 } = require("uuid");
-
-const ORDER_ITEM_STATUS = {
-  ON_HOLD_REQUEST: "on-hold-request",
-  ON_HOLD: "on-hold",
-  SECOND_HOLD_REQUEST: "2nd-hold-request",
-  SECOND_HOLD: "2nd-hold",
-  THIRD_HOLD_REQUEST: "3rd-hold-request",
-  THIRD_HOLD: "3rd-hold",
-  UNAVAILABLE: "unavailable",
-  UNAVAILABLE_UNTIL: "unavailable-until",
-  AVAILABLE: "available",
-  CONFIRMED: "confirmed",
-  CANCELLED: "cancelled",
-  CLEAN: "clean",
-  LOSS: "loss",
-  DAMAGE: "damage",
-  OUT: "out",
-  IN: "in",
-};
+const {ORDER_ITEM_STATUS} = require("../constants/status");
 
 const OrderItemSchema = new mongoose.Schema(
   {
